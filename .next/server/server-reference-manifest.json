@@ -1,0 +1,28 @@
+{
+  "node": {
+    "40e708f4ad32879256f939a46767a2ae52c44fe072": {
+      "workers": {
+        "app/(payload)/admin/[[...segments]]/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CWORK%5C%5Cprojects%5C%5Cpayload-t%5C%5Csrc%5C%5Capp%5C%5C(payload)%5C%5Clayout.tsx%22%2C%5B%7B%22id%22%3A%2240e708f4ad32879256f939a46767a2ae52c44fe072%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_0%22%7D%5D%5D%2C%5B%22D%3A%5C%5CWORK%5C%5Cprojects%5C%5Cpayload-t%5C%5Cnode_modules%5C%5C%40payloadcms%5C%5Cnext%5C%5Cdist%5C%5Clayouts%5C%5CRoot%5C%5Cindex.js%22%2C%5B%7B%22id%22%3A%2260ca7ac92108475446c3c18149dbcb70cd32a35a7b%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_0%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": true
+        }
+      },
+      "layer": {
+        "app/(payload)/admin/[[...segments]]/page": "rsc"
+      }
+    },
+    "60ca7ac92108475446c3c18149dbcb70cd32a35a7b": {
+      "workers": {
+        "app/(payload)/admin/[[...segments]]/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CWORK%5C%5Cprojects%5C%5Cpayload-t%5C%5Csrc%5C%5Capp%5C%5C(payload)%5C%5Clayout.tsx%22%2C%5B%7B%22id%22%3A%2240e708f4ad32879256f939a46767a2ae52c44fe072%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_0%22%7D%5D%5D%2C%5B%22D%3A%5C%5CWORK%5C%5Cprojects%5C%5Cpayload-t%5C%5Cnode_modules%5C%5C%40payloadcms%5C%5Cnext%5C%5Cdist%5C%5Clayouts%5C%5CRoot%5C%5Cindex.js%22%2C%5B%7B%22id%22%3A%2260ca7ac92108475446c3c18149dbcb70cd32a35a7b%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_0%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": true
+        }
+      },
+      "layer": {
+        "app/(payload)/admin/[[...segments]]/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "LPF1+Z9w+ZodQ/CXtby/F2ZZUoF0rdpA4wKKf7d+iuM="
+}

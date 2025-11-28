@@ -3,19 +3,7 @@ dist / media
 .idea/
 node_modules
 .DS_Store
-.env
-.next
 .vercel
-
-# Payload default media upload directory
-public/media/
-
-public/robots.txt
-public/sitemap*.xml
-
-# Local dev data
-payload.db
-
 
 # Playwright
 node_modules/
