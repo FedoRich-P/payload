@@ -1,5 +1,6 @@
 build
 dist / media
+.idea/
 node_modules
 .DS_Store
 .env
@@ -11,6 +12,9 @@ public/media/
 
 public/robots.txt
 public/sitemap*.xml
+
+# Local dev data
+payload.db
 
 
 # Playwright
